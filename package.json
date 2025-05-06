@@ -1,0 +1,11 @@
+{
+  "name": "global-environment",
+  "version": "0.1.0",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "Francisco Presencia <public@francisco.io> (https://francisco.io/)",
+  "license": "MIT",
+  "description": "Load the environment variables from different places into process.env",
+  "dependencies": {}
+}
