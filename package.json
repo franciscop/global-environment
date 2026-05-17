@@ -1,11 +1,14 @@
 {
   "name": "global-environment",
   "version": "0.1.0",
-  "main": "index.js",
-  "scripts": {},
-  "keywords": [],
-  "author": "Francisco Presencia <public@francisco.io> (https://francisco.io/)",
-  "license": "MIT",
   "description": "Load the environment variables from different places into process.env",
+  "repository": "github:franciscop/global-environment",
+  "author": "Francisco Presencia <public@francisco.io> (https://francisco.io/)",
+  "funding": "https://www.paypal.me/franciscopresencia/19",
+  "license": "MIT",
+  "keywords": [],
+  "scripts": {},
+  "main": "index.js",
+  "type": "module",
   "dependencies": {}
 }

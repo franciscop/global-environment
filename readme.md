@@ -1,4 +1,4 @@
-# Environment variables across packages
+# Environment variables across packages [![global-environment](https://img.shields.io/npm/v/global-environment?label=global-environment&color=greenlime)](https://www.npmjs.com/package/global-environment)
 
 Load the environment variables, no matter the runtime you are at:
 
