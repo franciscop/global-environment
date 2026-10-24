@@ -1,4 +1,4 @@
-# Environment variables across packages [![npm install global-environment](https://img.shields.io/badge/npm%20install-global--environment-blue.svg)](https://www.npmjs.com/package/global-environment) [![deps](https://img.shields.io/badge/deps-0-limegreen.svg)](https://github.com/franciscop/global-environment/blob/master/package.json)
+# Environment variables across packages [![npm install global-environment](https://img.shields.io/badge/npm%20install-global--environment-blue.svg)](https://www.npmjs.com/package/global-environment) [![tests](https://github.com/franciscop/global-environment/workflows/tests/badge.svg)](https://github.com/franciscop/global-environment/actions) [![deps](https://img.shields.io/badge/deps-0-limegreen.svg)](https://github.com/franciscop/global-environment/blob/master/package.json)
 
 Load the environment variables, no matter the runtime you are at:
 
