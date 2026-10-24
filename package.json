@@ -1,6 +1,6 @@
 {
   "name": "global-environment",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Load the environment variables from different places into process.env",
   "repository": "github:franciscop/global-environment",
   "author": "Francisco Presencia <public@francisco.io> (https://francisco.io/)",
